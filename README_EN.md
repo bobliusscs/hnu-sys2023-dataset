@@ -1,6 +1,14 @@
+<div align="center">
+
 # HNU_SYS_2023 Dataset
 
-Hunan University Signals and Systems course exercise dataset, containing 2023 course exercises and knowledge-point associations.
+<p>
+  <a href="README_EN.md">English</a> | <a href="README.md">简体中文</a>
+</p>
+
+</div>
+
+---
 
 ## Files
 
